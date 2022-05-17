@@ -5,6 +5,6 @@ Oops is a little cutie Ransomware that i made using Python3 that will encrypt al
 
 ## Usage
 
-Place `oops.py` in the directory that has the files that you want to encrypt them
+Place `oops.py` in the directory that has the files that you want to encrypt them and run `python3 oops.py`
 
-in order to decrypt them run `decrypt.py` and use the passcode: `5609`
+in order to decrypt them run `python3 decrypt.py` in the same directory and use the passcode: `5609`
