@@ -11,4 +11,4 @@ in order to decrypt them run `python3 decrypt.py` in the same directory and use 
 
 
 
-### THIS PROGRAM MAY HAVE SOME ISSUES (UNFINISHED)
+### THIS PROGRAM HAVE SOME ISSUES (UNFINISHED)
